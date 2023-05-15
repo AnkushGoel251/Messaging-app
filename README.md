@@ -2,7 +2,7 @@
 Welcome to Chat Webapp, a messaging chat application that allows you to communicate with others in real time.
 
 # Demo
-[![Watch the video](https://drive.google.com/file/d/1xhZVGQS6nDjPdOPSx7B30Sd-DkM7bCZO/view?usp=share_link)
+![Watch the video](https://drive.google.com/file/d/1xhZVGQS6nDjPdOPSx7B30Sd-DkM7bCZO/view?usp=share_link)
 
 ## Preview
 
