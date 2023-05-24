@@ -2,12 +2,13 @@
 Welcome to Chat Webapp, a messaging chat application that allows you to communicate with others in real time.
 
 # Demo
-![Watch the video](https://drive.google.com/file/d/1xhZVGQS6nDjPdOPSx7B30Sd-DkM7bCZO/view?usp=share_link)
+[<img src="https://drive.google.com/file/d/1On5UeLsRCTA-tKuBM4tWfrtM0DP2KKd8/view?usp=drive_link" width="50%">](https://drive.google.com/file/d/1xhZVGQS6nDjPdOPSx7B30Sd-DkM7bCZO/view?usp=share_link "Chat App")
+
 
 ## Preview
 
 ## Sign Up
-![Screenshot_20230514_174226](https://github.com/AnkushGoel251/Messaging-app/assets/77546629/b9dc738f-daf5-4127-ad94-2fce373e591e)
+![image](https://drive.google.com/file/d/1On5UeLsRCTA-tKuBM4tWfrtM0DP2KKd8/view?usp=drive_link)
 
 ## Verification
 ![Screenshot_20230514_174632](https://github.com/AnkushGoel251/Messaging-app/assets/77546629/a47620b1-ed1a-4b0b-a586-284bd9413bdb)
